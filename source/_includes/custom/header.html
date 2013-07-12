@@ -1,6 +1,17 @@
 <hgroup>
-  <h1><a href="{{ root_url }}/">{{ site.title }}</a></h1>
+	{% img /images/flock-blog-logo.png 125 125 'image' 'images' %}
+	<br>
+  <h1 style="padding-top:8px;"><a href="{{ root_url }}/">Flock Blog</a></h1>
   {% if site.subtitle %}
-    <h2>{{ site.subtitle }}</h2>
+    <h2>An Inside Look</h2>
+    <!-- <h2>{{ site.subtitle }}</h2> -->
   {% endif %}
 </hgroup>
+
+<style type="text/css">
+	body>header h1 a {
+		font-color:#6A9E69; 			
+	}
+</style>
+
+<!-- {{ site.title }} -->

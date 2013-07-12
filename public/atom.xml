@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Flock]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2013-07-11T23:18:12-04:00</updated>
+  <updated>2013-07-12T00:23:14-04:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,11 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Meet Flock]]></title>
+    <title type="html"><![CDATA[Meet Flock, a Fun and Casual Way to Make Plans]]></title>
     <link href="http://yoursite.com/blog/2013/07/11/meet-flock/"/>
-    <updated>2013-07-11T22:32:00-04:00</updated>
+    <updated>2013-07-11T23:24:00-04:00</updated>
     <id>http://yoursite.com/blog/2013/07/11/meet-flock</id>
-    <content type="html"><![CDATA[<h1>Hello</h1>
+    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   

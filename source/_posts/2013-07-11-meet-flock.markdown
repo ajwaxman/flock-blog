@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "Meet Flock"
-date: 2013-07-11 22:32
+title: "Meet Flock, a Fun and Casual Way to Make Plans"
+date: 2013-07-11 23:24
 comments: true
 categories: 
 ---
-
-# Hello 
