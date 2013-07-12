@@ -2,6 +2,7 @@
 // Add styles here to make changes without digging in too much
 
 $white: #FFFFFF;
+$newheader: 'futura-pt', 'sans-serif';
 
 html {
 	background: $white;
@@ -13,6 +14,11 @@ body {
 	max-width: 850px;
 	padding-left: 0.5em;
 	padding-right: 0.5em;
+	color: #555555;
+
+	> h1 {
+		color: #555555;
+	}
 
 	> header {
 		background: $white;
@@ -20,10 +26,15 @@ body {
 		padding-left: 0px;
 		padding-right: 0px;	
 
+		h2 {
+			font-family: $newheader;	
+		}
+
 		h1 {
 			a, a:visited, a:hover {
-				color: #8C8C8C;
-				font-family: $heading-font-family;
+				color: #555555;
+				font-family: $newheader;
+				/*font-family: $heading-font-family;*/
 			}
 		}
 	}
@@ -101,7 +112,10 @@ article {
 
 	.entry-content {
 		h3 {
-			font-style: italic
+			font-family:$newheader;
+			/*font-style: italic*/
+			color: #555555;
+			font-size: 1.5em;
 		}
 	}
 
@@ -110,13 +124,14 @@ article {
 	}
 
 	a, a:visited {
-		color: #1863A1;
+		color: #555555;
 	}
 
 	header {
 		h1.entry-title {
-			font-family: $heading-font-family;
+			font-family: $newheader;
 			font-weight: 400;
+			color: #555555;
 		}
 	}
 }
@@ -146,7 +161,8 @@ article {
 
 		h1 {
 			a {
-				font-family: $heading-font-family;
+				/*font-family: $heading-font-family;*/
+				font-family:$newheader;
 				font-weight: 400;
 			}
 
@@ -158,9 +174,10 @@ article {
 
 	.hentry {
 		h1.entry-title {
-			font-family: $heading-font-family;
+			/*font-family: $heading-font-family;*/
+			font-family:$newheader;
 			font-weight: 400;
-			font-size: 2.2em;
+			font-size: 2.0em;
 		}
 	}
 	
