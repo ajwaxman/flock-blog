@@ -327,7 +327,7 @@ task :setup_github_pages, :repo do |t, args|
       # and checkout the source branch for committing changes to the blog source.
       system "git remote add origin #{repo_url}"
       puts "Added remote #{repo_url} as origin"
-      system "git config branch.master.remote origin"
+      system "git config branch.master.remote heroku"
       puts "Set origin as default remote"
       system "git branch -m master source"
       puts "Master branch renamed to 'source' for committing your blog source files"
