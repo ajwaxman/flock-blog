@@ -130,7 +130,7 @@ article {
 	header {
 		h1.entry-title {
 			font-family: $newheader;
-			font-weight: 400;
+			font-weight: 300;
 			color: #555555;
 		}
 	}
@@ -163,7 +163,8 @@ article {
 			a {
 				/*font-family: $heading-font-family;*/
 				font-family:$newheader;
-				font-weight: 400;
+				font-weight: bold;
+
 			}
 
 			a:hover {
@@ -176,7 +177,7 @@ article {
 		h1.entry-title {
 			/*font-family: $heading-font-family;*/
 			font-family:$newheader;
-			font-weight: 400;
+			font-weight: bold;
 			font-size: 2.0em;
 		}
 	}
