@@ -29,4 +29,4 @@ These are the two upcoming additions, which we think will make the app more usef
 
 Thanks again and Happy Flocking!
 
-The Flock Team
+###<span style="color: #6A9E69;">The Flock Team</span>
