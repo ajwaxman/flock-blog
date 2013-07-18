@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Flock]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-07-18T13:57:07-04:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://blog.flockwithme.com/atom.xml" rel="self"/>
+  <link href="http://blog.flockwithme.com/"/>
+  <updated>2013-07-18T14:16:58-04:00</updated>
+  <id>http://blog.flockwithme.com/</id>
   <author>
     <name><![CDATA[FivePoints Social]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello and Welcome to Flock!]]></title>
-    <link href="http://yoursite.com/blog/2013/07/18/hello-and-welcome-to-flock/"/>
+    <link href="http://blog.flockwithme.com/blog/2013/07/18/hello-and-welcome-to-flock/"/>
     <updated>2013-07-18T12:30:00-04:00</updated>
-    <id>http://yoursite.com/blog/2013/07/18/hello-and-welcome-to-flock</id>
+    <id>http://blog.flockwithme.com/blog/2013/07/18/hello-and-welcome-to-flock</id>
     <content type="html"><![CDATA[<p>Thank you for joining Flock.  We have put a lot of thought and effort into creating an app that will let people connect with their friends through everyday activities.  Flock was built because we have consistently been faced with a dilemma:  How do you let your friends know you’re doing something and wouldn’t mind company without having to contact people or creating a formal event?  Current event planning apps are too structured and formal while location based Social apps trend towards letting your friends know where you are at the current point in time, and seeing where your friends are around you.  We combined an informal event concept with the location sharing concept to create open micro-events letting your friends see what you have planned and allowing you to see what your friends are up to.  By having an informal event creation and sharing process we hope to get people out and about doing things they would otherwise do alone or miss altogether.</p>
 
 <h3>Growth</h3>
@@ -46,9 +46,9 @@
   
   <entry>
     <title type="html"><![CDATA[Meet Flock, a Fun and Casual Way to Make Plans]]></title>
-    <link href="http://yoursite.com/blog/2013/07/11/meet-flock/"/>
+    <link href="http://blog.flockwithme.com/blog/2013/07/11/meet-flock/"/>
     <updated>2013-07-11T23:24:00-04:00</updated>
-    <id>http://yoursite.com/blog/2013/07/11/meet-flock</id>
+    <id>http://blog.flockwithme.com/blog/2013/07/11/meet-flock</id>
     <content type="html"><![CDATA[<p>Last summer, a buddy and I met at Starbucks to discuss some ideas we wanted to implement. All of our ideas shared a common theme: they were problems we were facing. We decided to focus on one.</p>
 
 <h3>The Problem: Getting Friends Together</h3>
