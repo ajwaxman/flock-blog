@@ -4,7 +4,7 @@
   <title><![CDATA[Flock]]></title>
   <link href="http://blog.flockwithme.com/atom.xml" rel="self"/>
   <link href="http://blog.flockwithme.com/"/>
-  <updated>2013-07-18T14:16:58-04:00</updated>
+  <updated>2013-08-19T16:57:25-04:00</updated>
   <id>http://blog.flockwithme.com/</id>
   <author>
     <name><![CDATA[FivePoints Social]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Flock Design]]></title>
+    <link href="http://blog.flockwithme.com/blog/2013/08/19/flock-design/"/>
+    <updated>2013-08-19T16:04:00-04:00</updated>
+    <id>http://blog.flockwithme.com/blog/2013/08/19/flock-design</id>
+    <content type="html"><![CDATA[<p>In this post I’d like to talk a bit about Flock and design.  I must add a disclaimer;  I have very little knowledge of design principles or terminology, so for all experts out there, please pardon my ignorance and feel free to drop me a note.</p>
+
+<p><img class="right" src="https://sphotos-b-iad.xx.fbcdn.net/hphotos-ash3/1044410_467793309961610_991705879_n.jpg" width="500"> We began working on Flock right as iOS 6 came out.  iOS 6 was an incremental improvement to Apple’s well known and loved mobile operating system.  In the five years of it’s existence iOS varied very little visually so I felt very comfortable diving head first into creating Flock.   Without knowing any real theory behind color spaces, element spacing or depths, or typography I could still make Flock familiar and stylish enough by adding some drop shadows, beveled text, and some gradients.  While we were happy with the initial result, we knew any modern app needs style and flair to grab the users attention and earn their love.</p>
+
+<p>It turns out we released the initial version at quite an interesting time.  Right after Apple announced iOS 7.  As some of you know, iOS 7 is a radical shift in the design of Apple’s mobile operating system.  Apple embraced the minimalistic design movement by flattening their components, and generally eliminating the superfluous visual elements in their basic controls.  At first glance, to someone like me with no artistic ability, this is a godsend.  No longer do I have to worry about custom backgrounds, textured toolbars and beveled buttons.  With a minimalist design any schmo should be able to layout their app handsomely.  Unfortunately in practice the opposite is true.</p>
+
+<p><img class="left" src="https://d233eq3e3p3cv0.cloudfront.net/max/800/0*lVhCIdrCjYalnWDg.png" width="500"> With such a major break in existing paradigms the time was ripe to take my knowledge, consider my mistakes, and make Flock 2.0 for iOS 7 totally awesome.  Plus using the new flat design I could make it look fresh and beautiful as well.  As it turns out, making a great looking flat iOS app is not an easy task.  Without the self containment each control possesed in earlier versions of iOS it is now up to the designer to make sure elements are laid out to promote natural flow, create breaks, and utilise proper color contrasts.  So where previously each element independently represented itself through skeuomorphism, now every element on the screen must interact in such a way as to leave no doubt to their function.  Having minimal visual elements requires in depth knowledge of design principles and the ability to create a great User Experience.   After banging my head against the wall for a while and acknowledging the fact that I lack any artistic ability, we decided to get the help of someone whose work we admire quite a bit.  As I type this, Flock is getting a complete new look (see above).  We are very excited for the upcoming release of Flock and its new design.  Look for it sometime after iOS 7 is let out of the gates.</p>
+
+<p>Misha and the Flock Team</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello and Welcome to Flock!]]></title>
